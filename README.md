@@ -1,2 +1,2 @@
 # davidafolayanwebsite
-ttps://davidafolz.github.io/davidafolayanwebsite/
+https://davidafolz.github.io/davidafolayanwebsite/
